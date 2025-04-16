@@ -19,6 +19,6 @@
 | Asset | DremIO | Хранение метаданных |  
 | Asset | ClickHouse | Аналитическое хранилище |  
 | Asset | Datahub | Шина данных |  
-| Hold | Apache Camel | Переход на другую щину данных |  
+| Hold | Apache Camel | Переход на другую шину данных |  
 | Hold | Microsoft SQL Server 2008 | DWH текушей системы, устаревание, отсутствие технической поддержки |  
 | Hold | Power Builder | Устаревание |  

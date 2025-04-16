@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
   <diagram name="Страница — 1" id="mhUT8JiSexu-bpIOOjVa">
-    <mxGraphModel dx="7748" dy="2942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5972" dy="2233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,22 +79,22 @@
         <mxCell id="IDzzVWDPnWyvxaZOG0bN-76" value="2 - Подготовка к разделению" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3035" y="-11" width="525" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IDzzVWDPnWyvxaZOG0bN-77" value="3 - Миграция данных&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2477.5" y="-921" width="525" height="60" as="geometry" />
+        <mxCell id="IDzzVWDPnWyvxaZOG0bN-77" value="3 - Миграция данных&lt;div&gt;Переход на Postgres для DWH&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2477.5" y="-921" width="525" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="IDzzVWDPnWyvxaZOG0bN-78" value="3 - Миграция данных" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IDzzVWDPnWyvxaZOG0bN-78" value="3 - Миграция данных&lt;div&gt;Переход на Postgres для DWH&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2477.5" y="-692" width="525" height="61" as="geometry" />
         </mxCell>
         <mxCell id="IDzzVWDPnWyvxaZOG0bN-80" value="5 - Оптимизация сервисов&lt;div&gt;Внедрение ролевой модели&lt;br&gt;&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1917.5" y="-692" width="525" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="IDzzVWDPnWyvxaZOG0bN-81" value="4 - Интеграция&lt;div&gt;Переход с Apache Camel на Apache Kafka&lt;br&gt;&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IDzzVWDPnWyvxaZOG0bN-81" value="4 - Интеграция&lt;div&gt;Переход на другую шину данных&lt;br&gt;&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2477.5" y="-501" width="525" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IDzzVWDPnWyvxaZOG0bN-82" value="4 - Интеграция&lt;div&gt;Переход с Apache Camel на Apache Kafka&lt;br&gt;&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IDzzVWDPnWyvxaZOG0bN-82" value="4 - Интеграция&lt;div&gt;Переход на другую шину данных&lt;br&gt;&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2477.5" y="-287" width="525" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="IDzzVWDPnWyvxaZOG0bN-83" value="4 - Интеграция&lt;div&gt;Переход с Apache Camel на Apache Kafka&lt;br&gt;&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IDzzVWDPnWyvxaZOG0bN-83" value="4 - Интеграция&lt;div&gt;Переход на другую шину данных&lt;br&gt;&lt;/div&gt;" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2477.5" y="-87" width="525" height="66" as="geometry" />
         </mxCell>
         <mxCell id="IDzzVWDPnWyvxaZOG0bN-84" value="6 - Вывод в тестовую эксплуатацию" style="shape=rect;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="1">
